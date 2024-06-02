@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
-import logo from "./main-logo.png";
-import kakaoLogin from "./kakao_login_large.png";
+import logo from "../assets/main-logo.png";
+import kakaoLogin from "../assets/kakao_login_large.png";
 import axios from "axios";
 
 function LandingPage() {
